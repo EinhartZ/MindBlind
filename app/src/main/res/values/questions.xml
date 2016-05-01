@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer-array name="question_idx_array">
+        <item>1</item>
+        <item>0</item>
+        <item>4</item>
+    </integer-array>
+
+    <string-array name="question_txt_array">
+        <item>"Which one is Anne?"</item>
+        <item>"Which one is Sally?"</item>
+        <item>"Where will Sally look?"</item>
+    </string-array>
+
+    <array name="answerImg_l_array">
+        <item>@drawable/sally</item>
+        <item>@drawable/sally</item>
+        <item>@drawable/basket</item>
+    </array>
+
+    <array name="answerImg_r_array">
+        <item>@drawable/anne</item>
+        <item>@drawable/anne</item>
+        <item>@drawable/box</item>
+    </array>
+
+    <integer-array name="answers_array">
+        <item>2</item>
+        <item>1</item>
+        <item>1</item>
+    </integer-array>
+
+    <string-array name="feedback_correct_array">
+        <item>"Recall test passed."</item>
+        <item>"Recall test passed."</item>
+        <item>"Theory of mind test passed."</item>
+    </string-array>
+
+    <string-array name="feedback_incorrect_array">
+        <item>"Recall test failed."</item>
+        <item>"Recall test failed."</item>
+        <item>"Mind blind."</item>
+    </string-array>
+</resources>

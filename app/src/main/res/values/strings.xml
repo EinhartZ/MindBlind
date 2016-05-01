@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">MindBlind</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="subs_l_array">
+        <item>This is Sally.</item>
+        <item>Sally puts the marble into the basket.</item>
+        <item>Sally goes away.</item>
+        <item></item>
+        <item>Where will Sally look for the marble?</item>
+    </string-array>
+
+    <string-array name="subs_r_array">
+        <item>This is Anne.</item>
+        <item></item>
+        <item></item>
+        <item>Anne moves the marble into the box.</item>
+        <item></item>
+    </string-array>
+
+    <string-array name="subs_r_array_2">
+        <item>\"I AM ANNE!\"</item>
+        <item>\"I LIKE CHOCOLATE!\"</item>
+        <item>\"DON\'T LEAVE! PLAY WITH ME!\"</item>
+        <item>\"THIS IS MINE!\"</item>
+        <item></item>
+    </string-array>
+
+    <string name="title_activity_answer">AnswerActivity</string>
+    <string name="title_activity_question">QuestionActivity</string>
+    <string name="title_activity_end">EndActivity</string>
+</resources>

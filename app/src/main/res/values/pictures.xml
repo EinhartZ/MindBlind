@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="pictures_array">
+        <item>@drawable/sally_anne_00</item>
+        <item>@drawable/sally_anne_01</item>
+        <item>@drawable/sally_anne_02</item>
+        <item>@drawable/sally_anne_03</item>
+        <item>@drawable/sally_anne_04</item>
+    </array>
+
+</resources>

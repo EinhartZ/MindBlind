@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="versions_subs_r_array">
+        <item>@array/subs_r_array</item>
+        <item>@array/subs_r_array_2</item>
+    </array>
+</resources>
